@@ -1,5 +1,5 @@
 # Description
-Technical test
+Gorill Logic Technical test
 
 # Technology
 
