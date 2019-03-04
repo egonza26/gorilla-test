@@ -1,0 +1,6 @@
+framework module Pods_GorillaTest {
+  umbrella header "Pods-GorillaTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
